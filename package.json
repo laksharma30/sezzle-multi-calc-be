@@ -1,0 +1,30 @@
+{
+  "name": "calculator-app-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "13.1.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laksharma30/sezzle-multi-calc-be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laksharma30/sezzle-multi-calc-be/issues"
+  },
+  "homepage": "https://github.com/laksharma30/sezzle-multi-calc-be#readme",
+  "description": "",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "express": "^4.17.1",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.2.3"
+  }
+}
